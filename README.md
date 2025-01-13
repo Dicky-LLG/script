@@ -11,7 +11,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ```
 #
 #
-##sebeum instal ke debian 10 update dulu repositori ya pakai ini
+## sebeum instal ke debian 10 update dulu repositori ya pakai ini
 ```
 wget raw.githubusercontent.com/okysmilee2/repo/main/addrepo && bash addrepo
 ```
