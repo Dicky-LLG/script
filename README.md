@@ -12,6 +12,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 # update
 ```
 wget https://raw.githubusercontent.com/Dicky-LLG/script/main/update.sh && chmod +x update.sh && ./update.sh
+```
 #
 ## sebeum instal ke debian 10 update dulu repositori ya pakai ini
 ```
